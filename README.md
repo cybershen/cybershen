@@ -1,16 +1,29 @@
-### Hi there 👋
+### 👨‍💻 Junior iOS Developer
 
-<!--
-**cybershen/cybershen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Well-motivated Person looking for an opportunity to implement knowledge and practical skills in iOS Development. I have been studying and practicing iOS for 1 year, and have completed several projects. I have a strong knowledge of Swift/OOP/POP as well as in popular frameworks like UIKit and SwiftUI. Working knowledge of CoreData and Realm. Good understanding of Networking(URLSession, JSON etc). Also I have good analytical and communication skills, attentiveness, code quality, and responsibility. Desperatly want to improve my skills and knowledge. Had a valuable experience trading on american stock market. Gonna find new ways of using it, such as investing.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Language and Tools:
+
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/><img height=50 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+
+
+
+### 🛠️ Skills:
+
+~ Swift
+
+~ UIKit
+
+~ GCD
+
+~ Design Patterns
+
+~ Networking
+
+~ OOP/POP
+
+~ Data Structures and Algorithms
+
