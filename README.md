@@ -45,6 +45,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img
 ***Books:***
 
 Raywenderlich: Swift Apprentice, UIKit Apprentice, SwiftUI Apprentice, Design Patterns by Tutorials, Data Structure and Algorithms.
+
 Paul Hudson: Hacking with Swift
 
 ***Epam University:*** iOS Summer Course 2022
