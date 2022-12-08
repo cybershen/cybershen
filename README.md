@@ -19,7 +19,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img
 
 ~ Swift
 
-~ UIKit
+~ UIKit 
+
+~ SwiftUI
 
 ~ GCD
 
@@ -37,7 +39,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img
 
 ### 🎓 Education:
 ***Books:***
-Raywenderlich: Swift Apprentice, UIKit Apprentice, Design Patterns by Tutorials, Data Structure and Algorithms.
+Raywenderlich: Swift Apprentice, UIKit Apprentice, SwiftUI Apprentice, Design Patterns by Tutorials, Data Structure and Algorithms.
 
 Paul Hudson: Hacking with Swift
 
