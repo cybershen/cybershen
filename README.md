@@ -52,4 +52,6 @@ Raywenderlich: Swift Apprentice, UIKit Apprentice, SwiftUI Apprentice, Design Pa
 
 Paul Hudson: Hacking with Swift
 
+Keith Harrison: Modern Auto Layout
+
 ***Epam University:*** iOS Summer Course 2022
