@@ -47,7 +47,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img
 
 ### 🎓 Education:
 
-***Epam University:*** iOS Summer Course 2022
+***Epam University:*** iOS External Program 2022
 
 certificate link: https://certificates.epam.com/certificates/f80023db-f58d-44a4-917f-b3690a8ffca1
 
