@@ -46,6 +46,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img
 -----------------
 
 ### 🎓 Education:
+
+***Epam University:*** iOS Summer Course 2022
+
+certificate link: https://certificates.epam.com/certificates/f80023db-f58d-44a4-917f-b3690a8ffca1
+
 ***Books:***
 
 Raywenderlich: Swift Apprentice, UIKit Apprentice, SwiftUI Apprentice, Design Patterns by Tutorials, Data Structure and Algorithms.
@@ -53,5 +58,3 @@ Raywenderlich: Swift Apprentice, UIKit Apprentice, SwiftUI Apprentice, Design Pa
 Paul Hudson: Hacking with Swift
 
 Keith Harrison: Modern Auto Layout
-
-***Epam University:*** iOS Summer Course 2022
