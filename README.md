@@ -21,7 +21,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img
 
 ### 🛠️ Skills:
 
-~ Swift
+~ <span style="color: purple"> Swift </span>
 
 ~ UIKit/SwiftUI
 
