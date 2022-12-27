@@ -53,7 +53,7 @@ certificate link: https://certificates.epam.com/certificates/f80023db-f58d-44a4-
 
 -----------------
 
-***Books:***
+### 📚 Books:
 
 Raywenderlich: Swift Apprentice, UIKit Apprentice, SwiftUI Apprentice, Design Patterns by Tutorials, Data Structure and Algorithms
 
