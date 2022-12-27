@@ -55,8 +55,8 @@ certificate link: https://certificates.epam.com/certificates/f80023db-f58d-44a4-
 
 ### 📚 Books:
 
-Raywenderlich: Swift Apprentice, UIKit Apprentice, SwiftUI Apprentice, Design Patterns by Tutorials, Data Structure and Algorithms
+Raywenderlich: "Swift Apprentice",  "UIKit Apprentice",  "SwiftUI Apprentice",  "Design Patterns by Tutorials",  "Data Structures and Algorithms"
 
-Paul Hudson: Hacking with Swift
+Paul Hudson: "Hacking with Swift"
 
-Keith Harrison: Modern Auto Layout
+Keith Harrison: "Modern Auto Layout"
